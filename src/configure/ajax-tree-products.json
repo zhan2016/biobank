@@ -1,0 +1,27 @@
+[
+  {"title": "标本管理", "expanded": true, "folder": true,"icon": "/icons/42-实验瓶.svg", "children": [
+    {"title": "标本查询", "type": "book", "author": "Sun Tzu", "year": -500, "qty": 21, "price": 5.95},
+    {"title": "导出png", "type": "book", "author": "J.R.R. Tolkien", "year": 1937, "qty": 32, "price": 8.97},
+    {"title": "导出excel", "type": "book", "author": "Antoine de Saint-Exupery", "year": 1943, "qty": 2946, "price": 6.82}
+  ]},
+  {"title": "容器管理", "folder": true, "children": [
+    {"title": "添加容器", "type": "music", "author": "Nirvana", "year": 1991, "qty": 916, "price": 15.95},
+    {"title": "添加冰箱", "type": "music", "author": "Kraftwerk", "year": 1974, "qty": 2261, "price": 23.98},
+    {"title": "添加版盒", "type": "music", "author": "Miles Davis", "year": 1959, "qty": 9735, "price": 21.90}
+  ]},
+  {"title": "统计分析", "expanded": true, "folder": true, "children": [
+    {"title": "标本统计", "folder": true, "children": [
+      {"title": "容器统计", "type": "phone", "author": "Motorola", "year": 2014, "qty": 332, "price": 224.99},
+      {"title": "耗材统计", "type": "phone", "author": "Samsung", "year": 2016, "qty": 952, "price": 509.99}
+    ]},
+    {"title": "飞机", "folder": true, "children": [
+      {"title": "波音", "type": "computer", "author": "IBM", "year": 1992, "qty": 16, "price": 749.90},
+      {"title": "阿波罗", "type": "computer", "author": "Commodore", "year": 1982, "qty": 83, "price": 595.00},
+      {"title": "米格", "type": "computer", "author": "Apple", "year": 2006, "qty": 482, "price": 1949.95},
+      {"title": "基洛夫", "type": "computer", "author": "Sinclair Research", "year": 1982, "qty": 1, "price": 529},
+      {"title": "天狗", "type": "computer", "author": "Apple", "year": 1977, "qty": 17, "price": 1298},
+      {"title": "dx", "type": "computer", "author": "IBM", "year": 1984, "qty": 3, "price": 1235.00}
+    ]}
+  ]},
+  {"title": "退出", "folder": true, "lazy": true}
+]

@@ -1,0 +1,24 @@
+[
+
+    {
+      "PID":"1111",
+      "PNAME":"zhangwe",
+      "studyDate":"20180316",
+      "ISMEDADVISE":false,
+      "ISBIO":false
+    },
+    {
+      "PID":"1111",
+      "PNAME":"zhangwenj",
+      "studyDate":"20180316",
+      "ISMEDADVISE":false,
+      "ISBIO":false
+    },
+    {
+      "PID":"1111",
+      "PNAME":"zhawenjia",
+      "studyDate":"20180316",
+      "ISMEDADVISE":false,
+      "ISBIO":false
+    }
+]

@@ -1,0 +1,43 @@
+{
+  "name": "biobank3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "start": "webpack-dev-server --open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^8.6.2",
+    "css-loader": "^0.28.11",
+    "exports-loader": "^0.7.0",
+    "node-sass": "^4.9.0",
+    "postcss-loader": "^2.1.5",
+    "sass-loader": "^7.0.3",
+    "style-loader": "^0.21.0",
+    "url-loader": "^1.0.1",
+    "webpack": "^4.12.0",
+    "webpack-cli": "^3.0.8",
+    "webpack-dev-server": "^3.1.4"
+  },
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.7.0",
+    "bootstrap": "^4.1.1",
+    "datatables.net": "^1.10.16",
+    "datatables.net-buttons": "^1.5.1",
+    "datatables.net-dt": "^1.10.16",
+    "html2canvas": "^1.0.0-alpha.12",
+    "jquery": "^3.3.1",
+    "jquery.fancytree": "^2.29.0",
+    "jszip": "^3.1.5",
+    "less": "^3.0.4",
+    "less-loader": "^4.1.0",
+    "popper.js": "^1.14.3"
+  }
+}
